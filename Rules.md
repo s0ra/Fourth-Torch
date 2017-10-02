@@ -60,4 +60,4 @@
   * The princess will join the player during the calculation in battle phase, the player must place her before or after any Heart cards as an extra hit point, or either gets 10 quest points. Princess cannot be traded.
   * The key can be used between II.1 and II.2 to escape the dungeon. The owner of the key can trade it for treasure card. The key counts as one treasure point.
   * Dash acts as a zero attack card, but the first revealing dash makes the user the first player to play card at the next Draw and Play Phase. The following revealed dash still be zero attack but it draws and places from the Dungeon Deck to the Monster Stack during the next Draw and Play Phase.
-  * Sun is placed under the Dungeon Deck and faced up. +5 Attack points to each played card.
+  * Sun is placed under the Dungeon Deck and faced up. +5 Attack points to each played card when it is shown after drawing whole Dungeon Deck.
