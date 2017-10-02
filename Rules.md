@@ -4,7 +4,7 @@
 * Scores - the total treasure points and quest points remaining after the end of a game.
 * Monster Stack - it is facing up and the only pile of card that the players battle with.
 
-# Card for a Game
+# Cards for a Game
 1. Dungeon Deck - consist of 1 demon (King of Clubs), 1 princess (Heart 10), 1 key (Ace of Heart), 40 Monsters (four set of Ace to 10 Clubs cards), 9 treasures (two 5, two 6, two 7, one 8, 9, 10 Diamonds)
 2. Heart Deck - consist of four 6, 7, 8 Heart cards
 3. Action Deck - consist of 4 dashes (Jokers) and 31 attacks (four 1 to 5, three 6 to 8, and one 9 and 10 Spades)
