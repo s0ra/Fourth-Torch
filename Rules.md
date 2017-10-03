@@ -54,7 +54,7 @@
   ## IV. End Phase
     1. If all players die or leave but one, the game ends.
     2. If the Dungeon Deck is empty, and the Monster Stack is also empty, the game ends.
-    3. Otherwise, go to phase II.
+    3. Otherwise, go to phase II and the first player to play card is the next clock-wise player.
 
 # Special Cards
   * The princess will join the player during the calculation in battle phase, the player must place her before or after any Heart cards as an extra hit point, or either gets 10 quest points. Princess cannot be traded.
