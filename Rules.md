@@ -1,8 +1,17 @@
+This is a four player game. You don't need the Key and Princess (optional) to play this game. The Sun (recommended) will make the end game faster.
+
 # Terms
 * Hit points - the number of heart card you own.
 * Revealing - Playing a face up card after drawing, or uncovering a face down card during the battle pharse.
 * Scores - the total treasure points and quest points remaining after the end of a game.
+* Monster - Clubs
+* Treasure - Diamonds
+* Hit point card - Hearts
+* Attack - Spades
 * Monster Stack - it is facing up and the only pile of card that the players battle with.
+* Torch-on - playing a faced up card.
+* Torch-off - playing a faced down card.
+* Monster is irritated - the torch (faced up card) irriated the monster (place one Dungeon card to Monster Stack) and it is going to attack you.
 
 # Cards for a Game
 1. Dungeon Deck - consist of 1 demon (King of Clubs), 1 princess (Heart 10), 1 key (Ace of Heart), 40 Monsters (four set of Ace to 10 Clubs cards), 9 treasures (two 5, two 6, two 7, one 8, 9, 10 Diamonds)
@@ -40,7 +49,7 @@
     2. Starts with the very first player.
     3. Draw one card from the Action Deck. (If Action Deck is empty, shuffle the disposed Action cards and draw from this deck.)
     4. Play one card from the hand, and the card played must be either facing up or facing down.
-    5. If it was faced up, draw and place one card on the top of the monster stack from the Dungeon Deck.
+    5. If the torch is on (played a faced up), a monster is irritated and come (draw one card from the Dungeon Deck and place it to the top of the monster stack).
     6. If all players have already played one card, proceed to phase III.
     7. Repeat II.2 with the player who is clock-wise to the player who just played the card.
   ## III. Battle Phase
